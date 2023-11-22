@@ -8,7 +8,7 @@
 
 ## Around The Web
 
-[![Website](https://img.shields.io/badge/site-eriklopez.net-blue?style=plastic&logo=astro)](https://eriklopez.net)
+[![Website](https://img.shields.io/badge/site-eriklopez.net-blue?style=plastic&logo=nextdotjs)](https://eriklopez.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erikclopez-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/erikclopez/)
 [![CodePen](https://img.shields.io/badge/codepen-Erik-blue?style=plastic&logo=codepen)](https://codepen.io/Erik)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-Erik-blue?style=plastic&logo=stackoverflow)](https://stackoverflow.com/users/307260/erik)
