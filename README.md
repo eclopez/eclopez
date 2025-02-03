@@ -1,7 +1,7 @@
 # Hi I'm Erik 👋
 
 ## About Me
-* 💻 I'm a Front End Engineer who loves React and TypeScript.
+* 💻 I'm a Frontend Engineer who loves React and TypeScript.
 * I also have experience as a Full Stack Engineer working on the .NET stack with C#.
 * I love to build beatiful and performant interfaces.
 * Formerly [@zillow](https://github.com/zillow) and [@tuftandneedle](https://github.com/tuftandneedle), among some others.
